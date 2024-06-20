@@ -26,4 +26,6 @@ Pour ma part j'ai choisi d'utiliser :
 - Figma
 - VS Code
 - MySQL
+- https://fontawesome.com pour les icones
+- https://pixabay.com/fr, https://www.pexels.com/fr-fr et https://unsplash.com/fr pour la recherche d'image gratuite.
 
