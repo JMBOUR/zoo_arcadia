@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "667050fef925089d3eb45bb8"
+  },
+  "password": "password1",
+  "nom": "name1",
+  "prenom": "prenom1"
+},
+{
+  "_id": {
+    "$oid": "6670589df925089d3eb45bbb"
+  },
+  "password": "password2",
+  "nom": "name2",
+  "prenom": "prenom2"
+},
+{
+  "_id": {
+    "$oid": "66705934f925089d3eb45bbc"
+  },
+  "password": "password3",
+  "nom": "name3",
+  "prenom": "prenom3"
+},
+{
+  "_id": {
+    "$oid": "66705b73f925089d3eb45bbd"
+  },
+  "password": "password4",
+  "nom": "name4",
+  "prenom": "prenom4"
+},
+{
+  "_id": {
+    "$oid": "66705b9ff925089d3eb45bbe"
+  },
+  "password": "password5",
+  "nom": "name5",
+  "prenom": "prenom5"
+}]

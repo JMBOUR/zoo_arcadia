@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "66706a3cf925089d3eb45bd6"
+  },
+  "prenom": "animal1",
+  "etat": "bon"
+},
+{
+  "_id": {
+    "$oid": "66706a4df925089d3eb45bd7"
+  },
+  "prenom": "animal2",
+  "etat": "moyen"
+},
+{
+  "_id": {
+    "$oid": "66706a5af925089d3eb45bd8"
+  },
+  "prenom": "animal3",
+  "etat": "tres bon"
+}]

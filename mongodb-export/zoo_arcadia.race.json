@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "66707211f925089d3eb45be2"
+  },
+  "labal": "mammifere"
+},
+{
+  "_id": {
+    "$oid": "66707221f925089d3eb45be3"
+  },
+  "labal": "reptile"
+},
+{
+  "_id": {
+    "$oid": "6670722af925089d3eb45be4"
+  },
+  "label": "amphibien"
+},
+{
+  "_id": {
+    "$oid": "66707235f925089d3eb45be5"
+  },
+  "label": "oiseau"
+},
+{
+  "_id": {
+    "$oid": "6670723ef925089d3eb45be6"
+  },
+  "label": "poisson"
+},
+{
+  "_id": {
+    "$oid": "66707247f925089d3eb45be7"
+  },
+  "label": "felin"
+},
+{
+  "_id": {
+    "$oid": "66707257f925089d3eb45be8"
+  },
+  "label": "rongeur"
+}]

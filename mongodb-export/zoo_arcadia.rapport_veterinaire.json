@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "66706ecef925089d3eb45bdd"
+  },
+  "date": "AAAA/MM/JJ",
+  "detail": "animal avec un mental et un physique positif"
+},
+{
+  "_id": {
+    "$oid": "6670713bf925089d3eb45bde"
+  },
+  "date": "AAAA/MM/JJ",
+  "detail": "animal avec une blessure à la jambe"
+},
+{
+  "_id": {
+    "$oid": "66707157f925089d3eb45bdf"
+  },
+  "date": "AAAA/MM/JJ",
+  "detail": "animal en convalescence suite à la naissance de son petit"
+}]

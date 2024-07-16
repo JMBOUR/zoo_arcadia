@@ -1,0 +1,28 @@
+.animaux {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.animaux__item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.animal {
+    width: 20%;
+    height: 300px;
+}
+
+@media only screen and (max-width: 1100px){
+    .animaux__item {
+        justify-content: center;
+    }
+    .animal {
+        width: 300px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}

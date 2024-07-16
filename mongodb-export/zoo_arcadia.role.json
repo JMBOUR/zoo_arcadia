@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "66705f0df925089d3eb45bcb"
+  },
+  "label": "administrateur"
+},
+{
+  "_id": {
+    "$oid": "6670609ef925089d3eb45bcc"
+  },
+  "label": "veterinaire"
+},
+{
+  "_id": {
+    "$oid": "667060aaf925089d3eb45bcd"
+  },
+  "label": "employe"
+},
+{
+  "_id": {
+    "$oid": "667060b4f925089d3eb45bce"
+  },
+  "label": "visiteur1"
+},
+{
+  "_id": {
+    "$oid": "667060bff925089d3eb45bcf"
+  },
+  "label": "visiteur2"
+}]

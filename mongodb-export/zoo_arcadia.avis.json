@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "667091b7f925089d3eb45bfe"
+  },
+  "pseudo": "guy_t",
+  "commentaire": "test",
+  "isvible": "bool"
+},
+{
+  "_id": {
+    "$oid": "66709248f925089d3eb45bff"
+  },
+  "pseudo": "nina_r",
+  "commentaire": "test",
+  "isvible": "bool"
+}]

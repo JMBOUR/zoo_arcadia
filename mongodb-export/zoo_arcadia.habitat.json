@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "66708e33f925089d3eb45bea"
+  },
+  "nom": "jungle",
+  "description": "foret tropicale"
+},
+{
+  "_id": {
+    "$oid": "66708e4cf925089d3eb45beb"
+  },
+  "nom": "marais",
+  "description": "Point d'eau avec une diversité de plantes"
+},
+{
+  "_id": {
+    "$oid": "66708e5af925089d3eb45bec"
+  },
+  "nom": "la savane",
+  "description": "Savane reconstituée à l'identique"
+}]

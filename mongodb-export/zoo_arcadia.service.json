@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6670644ff925089d3eb45bd1"
+  },
+  "nom": "restauration",
+  "description": "Arcadia vous propose plusieurs restaurants de burger et 2 pizzerias"
+},
+{
+  "_id": {
+    "$oid": "6670658ef925089d3eb45bd2"
+  },
+  "nom": "visite_guidee_habitat",
+  "description": "Nous vous proposons une visite guidée gratuite des habitats."
+},
+{
+  "_id": {
+    "$oid": "667065cdf925089d3eb45bd3"
+  },
+  "nom": "visite_en_train",
+  "description": "Arcadia possède des trains pour la visite du parc. Départs fréquents à l’entrée."
+}]

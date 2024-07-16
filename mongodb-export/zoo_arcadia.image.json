@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66708f2cf925089d3eb45bf7"
+  },
+  "image_data": "planete_verte_retenu.jpg"
+},
+{
+  "_id": {
+    "$oid": "66708f80f925089d3eb45bf8"
+  },
+  "image_data": "Arcadia1_OK.png"
+},
+{
+  "_id": {
+    "$oid": "66708fc7f925089d3eb45bf9"
+  },
+  "image_data": "Elephant1.jpg"
+},
+{
+  "_id": {
+    "$oid": "66708fe1f925089d3eb45bfa"
+  },
+  "image_data": "Elephant2.jpg"
+},
+{
+  "_id": {
+    "$oid": "66709001f925089d3eb45bfb"
+  },
+  "image_data": "Loutre.jpg"
+},
+{
+  "_id": {
+    "$oid": "6670901ef925089d3eb45bfc"
+  },
+  "image_data": "Tigre.jpg"
+}]
