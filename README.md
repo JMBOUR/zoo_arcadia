@@ -55,9 +55,16 @@ Une page Contact :
 - fiche contacte
 
 
-## 🛠 Skills
+
+## 🛠 Skills et liens utiles
  - Javascript, HTML 5, CSS
+ - VSCode
+ - XAMPP
+ - FIGMA
  - Back-end : PhP avec utilisation de PDO
- - Base de données relationnelle : MySQL, MariaDB ou PostgreSQL
+ - Base de données relationnelle : MySQL
  - Base de données NoSQL : MongoDB
  - Déploiement : fly.io, Heroku, Azure, vercel
+ - https://readme.so/fr/editor pour la création de mon README
+ - https://pixabay.com/fr et https://unsplash.com/fr pour les images libres de droits
+ - lien Youtube pour une aide en vidéo
